@@ -12,7 +12,7 @@ Previously, we saw how to make each individual instance of a class hold on to th
 ## Instructions
 
 1. Read through the tutorial, following along as you go.
-2. Once you've finished, make the tests in `spec/01_book_spec.rb` pass. Run only those tests by typing `learn spec/01_book_spec.rb` on your command line.
+2. Once you've finished, make the tests in `spec/01_book_spec.rb` pass. Run only those tests by typing `rspec spec/01_book_spec.rb` on your command line.
 
 ## Tutorial
 
@@ -146,10 +146,6 @@ Try to complete the similar exercise below where the `Shoe` class can keep track
 
 Open `spec/02_shoe_spec.rb` and start making the tests pass. Write your code in `shoe.rb`.
 
-To run the specs, type `learn spec/02_shoe_spec.rb` on your command line.
+To run the specs, type `rspec spec/02_shoe_spec.rb` on your command line.
 
 Happy coding!
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-basics-with-class-constants' title='Object Orientation Basics With Class Constants'>Object Orientation Basics With Class Constants</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-basics-with-class-constants'>OO Basics with Class Constants</a> on Learn.co and start learning to code for free.</p>
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-basics-with-class-constants'>OO Basics with Class Constants</a> on Learn.co and start learning to code for free.</p>
